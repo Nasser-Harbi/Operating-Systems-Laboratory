@@ -49,3 +49,8 @@ All programming tasks were written, compiled, and tested on **Ubuntu Linux** usi
   ```bash
   gcc fork_demo.c -o fork_demo
   ./fork_demo
+
+  * **Multithreading & Mutex Synchronization (Q7):**
+  ```bash
+  gcc q7_threads.c -o q7_threads -pthread
+  ./q7_threads
